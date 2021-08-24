@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumir Webservices con Volley</string>
+    <string name="enviar">Exec-alba</string>
+    <string name="body">Cuerpo_alba</string>
+    <string name="userid">userID_alba</string>
+    <string name="title">titulo_alba</string>
+</resources>

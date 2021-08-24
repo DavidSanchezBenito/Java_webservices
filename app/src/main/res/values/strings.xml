@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consumir Webservices con Volley</string>
+    <string name="enviar">Ejecutar</string>
+    <string name="body">Cuerpo</string>
+    <string name="userid">UserId</string>
+    <string name="title">Titulo</string>
+</resources>
